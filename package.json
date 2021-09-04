@@ -1,0 +1,22 @@
+{
+  "name": "myblog",
+  "version": "1.0.0",
+  "description": "kevin's first blog.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [
+    "kevin",
+    "blog"
+  ],
+  "author": "kevin",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.8.2",
+    "vuepress-plugin-permalink-pinyin": "^1.0.0",
+    "vuepress-theme-reco": "^1.6.6"
+  }
+}

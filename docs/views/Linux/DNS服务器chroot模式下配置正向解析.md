@@ -1,5 +1,5 @@
 ---
-title: DNS服务器chroot模式下配置正向解析1
+title: DNS服务器chroot模式下配置正向解析
 date: 2021-08-26
 sidebar: auto
 tags:

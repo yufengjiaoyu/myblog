@@ -8,7 +8,7 @@ module.exports = {
     head: [
 
       ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }],
-      ['link', {rel:'icon', href:'/avatar.jpg'}]
+      ['link', {rel:'icon', href:'/title.png'}]
   
     
     ],
@@ -79,13 +79,13 @@ module.exports = {
 
         {
           title: 'java学习地址',
-          desc: '可以边学边练习，知识点全面',
+          desc: '可以边学边练习，知识点比较全面',
           logo: '/java.png',
           link: 'https://how2j.cn/',
         },
         {
           title: 'android学习地址',
-          desc: '可以跟着做练习并解决选择图片等资源文件的烦恼',
+          desc: '可以边学边做练习，解决练习时到处寻找图片资源文件的烦恼',
           logo: '/az.jpg',
           link: 'https://www.twle.cn/l/yufei/android/android-basic-index.html',
         },

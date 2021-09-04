@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: 'ldh.jpg'
+heroImage: 'ldh.png'
 bgImage: '/bg.jpg'
 bgImageStyle: {
   height: '480px',
