@@ -7,3 +7,5 @@ bgImageStyle: {
   color: 'white'
 }
 ---
+
+<NewFont/>

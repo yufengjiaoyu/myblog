@@ -1,7 +1,8 @@
 module.exports = {
     theme: 'reco',
     title: "Welcome to my blog",
-    description: '学会三天  学好三年',
+    description: '路漫漫其修远兮, 吾将上下而求索',
+    port:'81',
 
    
     // 移动端优化
@@ -48,7 +49,7 @@ module.exports = {
       blogConfig: {
         category: {
           location: 2,     // 在导航栏菜单中所占的位置，默认2
-          text: '学习足迹' // 默认文案 “分类”
+          text: '学习笔记' // 默认文案 “分类”
         },
         tag: {
           location: 3,     // 在导航栏菜单中所占的位置，默认3
@@ -89,6 +90,14 @@ module.exports = {
           logo: '/az.jpg',
           link: 'https://www.twle.cn/l/yufei/android/android-basic-index.html',
         },
+
+        {
+          title: 'VuePress官方文档',
+          desc: '本博客是基于VuePress框架搭建的，采用了vuepress—theme-reco主题,把官网分享给大家',
+          logo: '/vue.png',
+          link: 'https://vuepress.vuejs.org/zh/',
+        },
+
 
 
 

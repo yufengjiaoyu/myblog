@@ -1,6 +1,6 @@
 ---
 title: DNS服务器chroot模式下配置正向解析
-date: 2021-08-26
+date: 2020-08-26
 sidebar: auto
 tags:
  - Linux
@@ -21,7 +21,7 @@ categories:
 >
 > * **查看本机dns：`cat /etc/resolv.conf**`
 >
-> ![mm.jpg](./mm.jpg)
+> ![mm.jpg](./zxjx.png)
 
 
 ### **步骤:**
